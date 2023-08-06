@@ -1,4 +1,4 @@
-# Welcome to my profile! I'm Mariana Pires 👩🏽‍💻
+# Hello, World! I'm Mariana Pires 👩🏽‍💻
 
 I'm a fullstack dev who loves sharing my knowledge about programming. I'm currently building my portfolio.
 
@@ -82,6 +82,7 @@ Programming Languages: `JavaScript`, `Python`, `React`\
 <br/>
 
 ### Currently learning:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width=40/>
 
 ## Reach me:
