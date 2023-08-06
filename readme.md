@@ -16,7 +16,7 @@ Programming Languages: `Python`, `JavaScript`, `Kotlin`\
 [<img align="left" height="94px" width="94px" alt="Meninas Digitais Regional BA Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoiOBn1bqTVQJYxdJwhUtLbDiI4RA53YLaKkwLiyriDxVNYhW1btKp5I7e1R6rWUTeog&usqp=CAU"/>](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/)
 
 **Action Team Lead & Researcher** \
-[**Rocketseat**](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/) • Volunteer \
+[**Meninas Digitais - Regional BA**](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/) • Volunteer \
 Programming Languages: `JavaScript`, `Python`, `React`\
 <br/>
 
