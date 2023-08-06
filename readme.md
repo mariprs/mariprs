@@ -20,6 +20,12 @@ Programming Languages: `Python`, `JavaScript`, `Kotlin`\
 Programming Languages: `JavaScript`, `Python`, `React`\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Meninas Digitais Regional BA Logo" src="https://yt3.googleusercontent.com/ytc/AOPolaQ585FAI5dSwhkR5COb0GAfvltSH6hHXsLjTEv1Lw=s900-c-k-c0x00ffffff-no-rj"/>](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/)
+
+**Ambassador** \
+[**Google Women Techmakers**](https://developers.google.com/womentechmakers?hl=pt-br) • Volunteer \
+<br/>
+
 ## Hard skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40/>
