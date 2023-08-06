@@ -24,7 +24,7 @@ Programming Languages: `JavaScript`, `Python`, `React`\
 
 **Ambassador** \
 [**Google Women Techmakers**](https://developers.google.com/womentechmakers?hl=pt-br) • Volunteer \
-<br/>
+<br/> <br/>
 
 ## Hard skills:
 
