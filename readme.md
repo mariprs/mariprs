@@ -6,7 +6,7 @@ Follow to watch me grow!
 
 ## Experience:
 
-[<img align="left" height="64px" width="94px" alt="Google Developer Student Club Logo" src="https://studentorgs.engineering.asu.edu/wp-content/uploads/sites/35/2023/01/GDSC-Crop.png"/>](https://gdsc.community.dev/universidade-federal-da-bahia/)
+[<img align="left" height="54px" width="94px" alt="Google Developer Student Club Logo" src="https://studentorgs.engineering.asu.edu/wp-content/uploads/sites/35/2023/01/GDSC-Crop.png"/>](https://gdsc.community.dev/universidade-federal-da-bahia/)
 
 **Lead** \
 [**Google Developer Student Clubs - Universidade Federal da Bahia**](https://gdsc.community.dev/universidade-federal-da-bahia/) • Volunteer \
