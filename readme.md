@@ -24,7 +24,7 @@ Follow to watch me grow!
 
 **Ambassador** \
 [**Google Women Techmakers**](https://developers.google.com/womentechmakers?hl=pt-br) • Volunteer (2023-now) \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Atos Logo" src="https://atos.net/wp-content/uploads/2022/02/atos-globe-blue-high-res.png"/>](https://atos.net/en/)
 
