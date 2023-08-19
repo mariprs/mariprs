@@ -18,13 +18,13 @@ Follow to watch me grow!
 **Action Team Lead & Researcher** \
 [**Meninas Digitais - Regional BA**](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/) • Volunteer (2022-now) \
 `JavaScript`, `Python`, `React.js`\
-<br/> <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Meninas Digitais Regional BA Logo" src="https://yt3.googleusercontent.com/ytc/AOPolaQ585FAI5dSwhkR5COb0GAfvltSH6hHXsLjTEv1Lw=s900-c-k-c0x00ffffff-no-rj"/>](https://meninas.sbc.org.br/portfolio-3/meninas-digitais-regional-bahia/)
 
 **Ambassador** \
 [**Google Women Techmakers**](https://developers.google.com/womentechmakers?hl=pt-br) • Volunteer (2023-now) \
-<br/> <br/><br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Atos Logo" src="https://atos.net/wp-content/uploads/2022/02/atos-globe-blue-high-res.png"/>](https://atos.net/en/)
 
