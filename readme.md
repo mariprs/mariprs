@@ -1,4 +1,4 @@
-# Hello, World! I'm Mariana Pires 👩🏽‍💻
+# Hello, World! I'm Mari  👩🏽‍💻
 
 I'm a fullstack dev who loves sharing my knowledge about programming. I'm currently building my portfolio.
 
